@@ -7,7 +7,7 @@ export const NavBar = () => {
   return (
     <Navbar bg="dark" variant="dark" sticky="top" expand="md">
       <Container>
-        <Navbar.Brand href="#home">Mos pumiphat</Navbar.Brand>
+        <Navbar.Brand href="#home">Mos pumiphat Mos pumiphat</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav"></Navbar.Toggle>
       <Navbar.Collapse>
           <Nav>
