@@ -49,7 +49,7 @@ export const Contact = () => {
               type="text"
               name="email"
               placeholder="Enter your email"
-              value={name}
+              value={email}
               onChange={handleChange}
             ></FormControl>
           </FormGroup>
@@ -59,7 +59,7 @@ export const Contact = () => {
               as="textarea"
               name="message"
               placeholder="Enter your message"
-              value={name}
+              value={message}
               onChange={handleChange}
             ></FormControl>
           </FormGroup>
